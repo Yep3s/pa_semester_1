@@ -4,4 +4,4 @@ Well so basically in this project we are triying to create a program with the po
 
 take in mind that this is my first time writing code and this was an activity of the university.
 
-I started this project in february of 2023 and I finished the project in June.
+I started this project in february of 2023 and I finished the project in June of 2023.
